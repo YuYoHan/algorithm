@@ -9,5 +9,8 @@ public class Code02 {
         System.out.println(num + otherNum);
         System.out.println("num : " + num);
         System.out.println("otherNum : " + otherNum);
+        System.out.println("sum : "  + num + otherNum); // 25
+        System.out.println("sum : "  + (num + otherNum)); // 7
+
     }
 }
