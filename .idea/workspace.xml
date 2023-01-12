@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ef775357-8c05-4279-b230-c5151c7b287f" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/session01/Code04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/session01/Code04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/study_/Spring/spring/book_study",
+    "last_opened_file_path": "C:/study_/Spring/springBoot/study01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673423608317</updated>
       <workItem from="1673423609820" duration="2929000" />
-      <workItem from="1673456164293" duration="4344000" />
+      <workItem from="1673456164293" duration="5369000" />
     </task>
     <servers />
   </component>
