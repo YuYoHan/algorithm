@@ -16,5 +16,6 @@ public class Code03 {
         } else {
             System.out.println("Number do not match!");
         }
+        sc.close();
     }
 }
