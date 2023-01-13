@@ -46,7 +46,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.Code06">
+  <component name="RunManager" selected="애플리케이션.ThreadDemo">
     <configuration name="Code01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="session01.Code01" />
       <module name="DataStructure" />
@@ -86,8 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadDemo" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ThreadDemo" />
         <item itemvalue="애플리케이션.Code06" />
         <item itemvalue="애플리케이션.Code02" />
         <item itemvalue="애플리케이션.Code01" />
@@ -105,7 +119,7 @@
       <workItem from="1673423609820" duration="2929000" />
       <workItem from="1673456164293" duration="8728000" />
       <workItem from="1673520132334" duration="2676000" />
-      <workItem from="1673573992557" duration="605000" />
+      <workItem from="1673573992557" duration="1369000" />
     </task>
     <servers />
   </component>
