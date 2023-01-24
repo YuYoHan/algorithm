@@ -27,5 +27,16 @@ public class Code01 {
         for (String key2 : map2.keySet()) {
             System.out.println(key2 + " : " + map2.get(key2));
         }
+
+        // map에 키가 있는지를 조사하여 그 결과값을 리턴한다.
+        System.out.println(map2.containsKey("김"));
+
+        // 삭제
+        System.out.println(map2.remove("서"));
+
+        // map의 갯수를 리턴
+        System.out.println(map2.size());
+
+
     }
 }
