@@ -46,7 +46,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Code01">
+  <component name="RunManager" selected="애플리케이션.Code02">
     <configuration name="Code01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.Code01" />
       <module name="DataStructure" />
@@ -60,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session01.Code06" />
+    <configuration name="Code02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Code02" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session01.*" />
+          <option name="PATTERN" value="String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Code02" />
         <item itemvalue="애플리케이션.Code01" />
         <item itemvalue="애플리케이션.map.Code01" />
         <item itemvalue="애플리케이션.Code11" />
         <item itemvalue="애플리케이션.ThreadDemo" />
-        <item itemvalue="애플리케이션.Code06" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +138,7 @@
       <workItem from="1673797891482" duration="617000" />
       <workItem from="1674220829942" duration="10549000" />
       <workItem from="1674445060810" duration="1204000" />
-      <workItem from="1674533288455" duration="5578000" />
+      <workItem from="1674533288455" duration="5897000" />
     </task>
     <servers />
   </component>
