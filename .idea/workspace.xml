@@ -47,7 +47,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.List.Code01">
+  <component name="RunManager" selected="애플리케이션.List.Code02">
     <configuration name="Code01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.Code01" />
       <module name="DataStructure" />
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Code11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="session01.Code11" />
+    <configuration name="List.Code01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.Code01" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="session01.*" />
+          <option name="PATTERN" value="List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List.Code01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.Code01" />
+    <configuration name="List.Code02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.Code02" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.List.Code02" />
         <item itemvalue="애플리케이션.List.Code01" />
         <item itemvalue="애플리케이션.Code02" />
         <item itemvalue="애플리케이션.Code01" />
         <item itemvalue="애플리케이션.map.Code01" />
-        <item itemvalue="애플리케이션.Code11" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,7 @@
       <workItem from="1674445060810" duration="1204000" />
       <workItem from="1674533288455" duration="7094000" />
       <workItem from="1674611142994" duration="2677000" />
-      <workItem from="1674663203732" duration="4905000" />
+      <workItem from="1674663203732" duration="5951000" />
     </task>
     <servers />
   </component>
