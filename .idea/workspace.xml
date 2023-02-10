@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef775357-8c05-4279-b230-c5151c7b287f" name="변경" comment="" />
+    <list default="true" id="ef775357-8c05-4279-b230-c5151c7b287f" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Code01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Code01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,13 +48,13 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.Code01">
-    <configuration name="Code01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashTable.Code01" />
+  <component name="RunManager" selected="애플리케이션.Array.Code01">
+    <configuration name="Array.Code01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Code01" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashTable.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List.Code01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.Code01" />
+    <configuration name="Code01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashTable.Code01" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="List.*" />
+          <option name="PATTERN" value="HashTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Array.Code01" />
         <item itemvalue="애플리케이션.Code01" />
         <item itemvalue="애플리케이션.test01" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.List.Code02" />
-        <item itemvalue="애플리케이션.List.Code01" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +144,7 @@
       <workItem from="1674611142994" duration="2677000" />
       <workItem from="1674663203732" duration="7962000" />
       <workItem from="1675920846395" duration="3423000" />
-      <workItem from="1675995767591" duration="1237000" />
+      <workItem from="1675995767591" duration="3135000" />
     </task>
     <servers />
   </component>
