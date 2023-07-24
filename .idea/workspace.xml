@@ -47,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.sty01">
+  <component name="RunManager" selected="애플리케이션.sty04">
     <configuration name="study01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="brute_force.study01" />
       <module name="DataStructure" />
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sty05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.part01.sty05" />
+    <configuration name="sty04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="brute_force.sty04" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.part01.*" />
+          <option name="PATTERN" value="brute_force.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.sty04" />
         <item itemvalue="애플리케이션.sty01" />
         <item itemvalue="애플리케이션.study01" />
         <item itemvalue="애플리케이션.sty09" />
         <item itemvalue="애플리케이션.sty06" />
-        <item itemvalue="애플리케이션.sty05" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +147,7 @@
       <workItem from="1676568277254" duration="7255000" />
       <workItem from="1688550828237" duration="693000" />
       <workItem from="1689321615542" duration="2757000" />
+      <workItem from="1690159646357" duration="1329000" />
     </task>
     <servers />
   </component>
