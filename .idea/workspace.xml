@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1595bc6b-1c16-4c6d-97ce-319ab1b065ee" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1595bc6b-1c16-4c6d-97ce-319ab1b065ee" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.study01">
+  <component name="RunManager" selected="애플리케이션.sty01">
     <configuration name="study01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="brute_force.study01" />
       <module name="DataStructure" />
@@ -63,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sty04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.part01.sty04" />
+    <configuration name="sty01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.sty01" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.part01.*" />
+          <option name="PATTERN" value="recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.sty01" />
         <item itemvalue="애플리케이션.study01" />
         <item itemvalue="애플리케이션.sty09" />
         <item itemvalue="애플리케이션.sty06" />
         <item itemvalue="애플리케이션.sty05" />
-        <item itemvalue="애플리케이션.sty04" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +146,7 @@
       <workItem from="1675995767591" duration="5509000" />
       <workItem from="1676568277254" duration="7255000" />
       <workItem from="1688550828237" duration="693000" />
-      <workItem from="1689321615542" duration="1415000" />
+      <workItem from="1689321615542" duration="2757000" />
     </task>
     <servers />
   </component>
