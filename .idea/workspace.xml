@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1595bc6b-1c16-4c6d-97ce-319ab1b065ee" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1595bc6b-1c16-4c6d-97ce-319ab1b065ee" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +38,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/study_/Backend/Algorithms",
+    "last_opened_file_path": "C:/study_/Backend/ShoppingMall",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -150,7 +148,7 @@
       <workItem from="1688550828237" duration="693000" />
       <workItem from="1689321615542" duration="2757000" />
       <workItem from="1690159646357" duration="4813000" />
-      <workItem from="1690335951959" duration="1228000" />
+      <workItem from="1690335951959" duration="4537000" />
     </task>
     <servers />
   </component>
@@ -167,5 +165,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/brute_force/sty05.java</url>
+          <line>16</line>
+          <properties class="brute_force.sty05" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
