@@ -1,0 +1,10 @@
+
+Q
+java:S3740
+"/Provide the parametrized type for this generic.(¿Þ§ñûÿÿÿÿ8é×áŸ¦1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡îë½øÿÿÿÿ8ê×áŸ¦1
+‡
+java:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¿Þ§ñûÿÿÿÿ8ó×áŸ¦1
+Y
+java:S1854	"7Remove this useless assignment to local variable "ans".(ÍïŽ¤ýÿÿÿÿ8ô×áŸ¦1
