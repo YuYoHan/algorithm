@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1595bc6b-1c16-4c6d-97ce-319ab1b065ee" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/study_/Backend/ShoppingMall&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/study_/Backend/Algorithms&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -158,6 +157,8 @@
       <workItem from="1693877279071" duration="4242000" />
       <workItem from="1693885775102" duration="2811000" />
       <workItem from="1694501826374" duration="729000" />
+      <workItem from="1696758196667" duration="2772000" />
+      <workItem from="1697247976924" duration="462000" />
     </task>
     <servers />
   </component>
