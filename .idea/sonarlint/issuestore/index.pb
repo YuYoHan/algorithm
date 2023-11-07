@@ -21,3 +21,9 @@ I
 src/Algorithms/Sty03.java,b\e\be8c0b5dcd669df80f70305897b9e8f63c76c4bf
 I
 src/Algorithms/Sty04.java,7\1\71030a4f85da7429fcdaa323cf152096122a6c53
+I
+src/Algorithms/sty05.java,c\f\cf658fef4e676fa4646c53e1ff1e32e25e9be67c
+I
+src/Algorithms/Sty06.java,1\d\1dd5cb5b12990367c20511e87df67c07783a47eb
+J
+src/Algorithms/Main01.java,5\4\54c2505a1a86d8b03e8c4ea7b8ba7da1681e4597

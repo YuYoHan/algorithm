@@ -1,0 +1,11 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åúÔİ8À“¿ß²1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡îë½øÿÿÿÿ8•è½ß²1
+n
+java:S3008"LRename this field "D" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿĞØöÿÿÿÿÿ8¤è½ß²1
+n
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîèõşÿÿÿÿ8¤è½ß²1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(“„¼8¥è½ß²1
+>
+java:S1659"!Declare "col" on a separate line.(ãÜòœ8—ÃÀß²1
