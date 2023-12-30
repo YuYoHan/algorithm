@@ -54,3 +54,5 @@ Z
 *src/Algorithms/리스트배열/Main01.java,3\b\3b38ea38376469010891a237f1bbce7fc6072ea3
 Z
 *src/Algorithms/리스트배열/Main02.java,a\a\aa10480298c93ee952dcd3258940b1bfc4f00e15
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
