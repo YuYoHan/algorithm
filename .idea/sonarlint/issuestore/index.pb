@@ -56,3 +56,7 @@ Z
 *src/Algorithms/리스트배열/Main02.java,a\a\aa10480298c93ee952dcd3258940b1bfc4f00e15
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+T
+$src/Algorithms/구간합/Main02.java,3\b\3bebf876888347b59b5b7a540f78f5b28163bbdd
+W
+'src/Algorithms/합구하기/Main01.java,2\2\225c3cdd2d88265f147d118c671609ce73af9119
