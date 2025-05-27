@@ -8,6 +8,8 @@ public class S03 {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
-        System.out.println(a * b);
+//        System.out.println(a * b);
+        // 문제가 정수를 받아서 실수형을 출력하는 거라 (double)추가
+        System.out.println((double) a / b);
     }
 }
