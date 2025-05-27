@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1595bc6b-1c16-4c6d-97ce-319ab1b065ee" name="변경" comment="[Study]배열">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/0574534691d446418682a7a9a3347821e9b5fcec" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/0574534691d446418682a7a9a3347821e9b5fcec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b38ea38376469010891a237f1bbce7fc6072ea3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b38ea38376469010891a237f1bbce7fc6072ea3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/701aac3c44e54f3e2ee95968f2b71019f72a5c3c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/701aac3c44e54f3e2ee95968f2b71019f72a5c3c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa10480298c93ee952dcd3258940b1bfc4f00e15" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa10480298c93ee952dcd3258940b1bfc4f00e15" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc6fd97f172a530a34ba80fbbacab2e974fedaca" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc6fd97f172a530a34ba80fbbacab2e974fedaca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c72134075fa80cc022c0eb15eaa2e29a19bbd1a1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c72134075fa80cc022c0eb15eaa2e29a19bbd1a1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4a340ae1cb267065875fabfc62b857b377d5be1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4a340ae1cb267065875fabfc62b857b377d5be1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1a5f0cb02a6bb7674d06bf3b66ce4704982b771" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1a5f0cb02a6bb7674d06bf3b66ce4704982b771" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,23 +54,11 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.S01.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Algorithms.디버깅.Main01">
-    <configuration name="Algorithms.디버깅.Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.디버깅.Main01" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithms.디버깅.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.S01">
     <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.시간복잡도.Main01" />
       <module name="DataStructure" />
@@ -100,6 +78,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Algorithms.시간복잡도.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.S01" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,6 +124,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.S01" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -185,7 +181,7 @@
       <workItem from="1703932561571" duration="3525000" />
       <workItem from="1704158128772" duration="1199000" />
       <workItem from="1704363457673" duration="604000" />
-      <workItem from="1748343323111" duration="738000" />
+      <workItem from="1748343323111" duration="3612000" />
     </task>
     <task id="LOCAL-00001" summary="[Study]시간복잡도">
       <option name="closed" value="true" />
