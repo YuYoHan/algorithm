@@ -59,7 +59,7 @@
     "애플리케이션.S04.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.S04">
+  <component name="RunManager" selected="애플리케이션.S05">
     <configuration name="S01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.S01" />
       <module name="DataStructure" />
@@ -112,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sty05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="brute_force.sty05" />
+    <configuration name="S05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.S05" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="brute_force.*" />
+          <option name="PATTERN" value="Algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.S05" />
         <item itemvalue="애플리케이션.S04" />
         <item itemvalue="애플리케이션.S03" />
         <item itemvalue="애플리케이션.S02" />
