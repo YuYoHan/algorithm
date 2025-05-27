@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1595bc6b-1c16-4c6d-97ce-319ab1b065ee" name="변경" comment="[Study]배열">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1595bc6b-1c16-4c6d-97ce-319ab1b065ee" name="변경" comment="[Study]배열" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,10 +55,11 @@
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.S01.executor": "Run",
     "애플리케이션.S02.executor": "Run",
-    "애플리케이션.S03.executor": "Run"
+    "애플리케이션.S03.executor": "Run",
+    "애플리케이션.S04.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.S03">
+  <component name="RunManager" selected="애플리케이션.S04">
     <configuration name="S01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.S01" />
       <module name="DataStructure" />
@@ -100,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sty01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.Sty01" />
+    <configuration name="S04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.S04" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -128,6 +127,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.S04" />
         <item itemvalue="애플리케이션.S03" />
         <item itemvalue="애플리케이션.S02" />
         <item itemvalue="애플리케이션.S01" />
@@ -185,7 +185,7 @@
       <workItem from="1703932561571" duration="3525000" />
       <workItem from="1704158128772" duration="1199000" />
       <workItem from="1704363457673" duration="604000" />
-      <workItem from="1748343323111" duration="4316000" />
+      <workItem from="1748343323111" duration="4624000" />
     </task>
     <task id="LOCAL-00001" summary="[Study]시간복잡도">
       <option name="closed" value="true" />
