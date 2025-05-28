@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1595bc6b-1c16-4c6d-97ce-319ab1b065ee" name="변경" comment="[Study]배열" />
+    <list default="true" id="1595bc6b-1c16-4c6d-97ce-319ab1b065ee" name="변경" comment="[Study]배열">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,28 +53,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.S01.executor": "Run",
     "애플리케이션.S02.executor": "Run",
     "애플리케이션.S03.executor": "Run",
-    "애플리케이션.S04.executor": "Run"
+    "애플리케이션.S04.executor": "Run",
+    "애플리케이션.S05.executor": "Run",
+    "애플리케이션.S06.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.S05">
-    <configuration name="S01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.S01" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.S06">
     <configuration name="S02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.S02" />
       <module name="DataStructure" />
@@ -125,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="S06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.S06" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.S06" />
         <item itemvalue="애플리케이션.S05" />
         <item itemvalue="애플리케이션.S04" />
         <item itemvalue="애플리케이션.S03" />
         <item itemvalue="애플리케이션.S02" />
-        <item itemvalue="애플리케이션.S01" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +190,7 @@
       <workItem from="1703932561571" duration="3525000" />
       <workItem from="1704158128772" duration="1199000" />
       <workItem from="1704363457673" duration="604000" />
-      <workItem from="1748343323111" duration="4624000" />
+      <workItem from="1748343323111" duration="10294000" />
     </task>
     <task id="LOCAL-00001" summary="[Study]시간복잡도">
       <option name="closed" value="true" />
