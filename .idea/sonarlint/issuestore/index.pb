@@ -60,3 +60,15 @@ T
 $src/Algorithms/구간합/Main02.java,3\b\3bebf876888347b59b5b7a540f78f5b28163bbdd
 W
 'src/Algorithms/합구하기/Main01.java,2\2\225c3cdd2d88265f147d118c671609ce73af9119
+G
+src/Algorithms/S01.java,c\2\c2cbe07c2c8478eeb660dada69951f6d49b8eb80
+G
+src/Algorithms/S02.java,d\7\d7705f33da6e516334a0d8a1560da198fc363059
+G
+src/Algorithms/S03.java,5\1\51ae5528d9b946442b079cad19410c7e8558238e
+G
+src/Algorithms/S04.java,5\5\5500098d87ca1131fa63db613b6662fd9c3def2d
+G
+src/Algorithms/S05.java,7\1\714ef9fdd27d4e42ff445126d14ef77136c78732
+G
+src/Algorithms/S06.java,d\6\d65317cf02147000f0de040d3e1c5dfa283916d0
